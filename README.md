@@ -41,6 +41,12 @@
 * Facial expressions and other gestures convey nonverbal communication cues that play an important role in interpersonal relations.
 * Therefore, facial expression recognition, because it extracts and analyzes information from an image or video feed, it is able to deliver unfiltered, unbiased emotional responses as data.
 
+## Built With
+
+* Python
+* Jupyter Notebook 
+* Google Colab
+
 ### Problem Statement
 
 * Given a data set consisting of facial images and their sketches, retrieve all images (real and /or sketch) which are similar to the given test image, along with various attributes of the image such as gender, expression and so on. 
