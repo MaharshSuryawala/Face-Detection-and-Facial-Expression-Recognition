@@ -43,9 +43,9 @@
 
 ## Built With
 
-* Python
-* Jupyter Notebook 
-* Google Colab
+* [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Google Colab](https://colab.research.google.com/)
 
 ### Problem Statement
 
