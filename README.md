@@ -10,22 +10,25 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Overview](#overview)
-  * [Built With](#built-with)
-  * [Problem Statement](#problem-statement)
-  * [Data Source](#data-source)
-  * [Plan](#plan)
-* [Approach](#approach)
-  * [Data Cleaning](#data-cleaning)
-  * [Data Preprocessing](#data-preprocessing)
-  * [Data Augmentation](#data-augmentation)
-  * [Learning Algorithms](#learning-algorithms)
-* [Results](#results)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+- [Face-Detection-and-Facial-Expression-Recognition](#face-detection-and-facial-expression-recognition)
+  - [Table of Contents](#table-of-contents)
+  - [About the Project](#about-the-project)
+    - [Overview](#overview)
+  - [Built With](#built-with)
+    - [Problem Statement](#problem-statement)
+    - [Data Source](#data-source)
+    - [Plan](#plan)
+  - [Approach](#approach)
+    - [Data Cleaning](#data-cleaning)
+    - [Data Preprocessing](#data-preprocessing)
+    - [Data Augmentation](#data-augmentation)
+    - [Learning Algorithms](#learning-algorithms)
+  - [Results](#results)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+  - [References](#references)
+  - [Acknowledgements](#acknowledgements)
 
 
 ## About the Project 
@@ -148,11 +151,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-[![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
 
-Maharsh Suryawala - [Portfolio](https://maharshsuryawala.github.io/maharshsuryawala/)
-
-Project Link: [https://github.com/MaharshSuryawala/Face-Detection-and-Facial-Expression-Recognition](https://github.com/MaharshSuryawala/Face-Detection-and-Facial-Expression-Recognition)
+* Team:
+  * [Maharsh Suryawala](https://www.linkedin.com/in/maharsh-suryawala/)
+  * [Nikhil Balwani](https://www.linkedin.com/in/nikhilbalwani/)
+  * [Parshwa Shah](https://www.linkedin.com/in/parshwa1999/)
 
 ## References
 
