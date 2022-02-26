@@ -57,7 +57,7 @@
 ### Data Source
 
 * The dataset was collected by us, consisting of 60 university students. 
-* Total images = 60 * 7(happiness, sadness, anger, neutral,  surprise, fear, and disgust).
+* Total images = 60 * 7 (happiness, sadness, anger, neutral, surprise, fear, and disgust).
 
 ### Plan
 
